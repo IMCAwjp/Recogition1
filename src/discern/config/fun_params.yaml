@@ -1,0 +1,7 @@
+/discern_fun:
+  ros__parameters:
+    artio: 1.5
+    max_area: 100.0
+    min_area: 4500.0
+   
+
